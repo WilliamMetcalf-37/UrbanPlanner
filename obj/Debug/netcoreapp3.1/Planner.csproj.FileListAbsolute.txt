@@ -1,0 +1,10 @@
+/Users/williammetcalf/workspace/csharp/excercises/planner/bin/Debug/netcoreapp3.1/Planner.deps.json
+/Users/williammetcalf/workspace/csharp/excercises/planner/bin/Debug/netcoreapp3.1/Planner.runtimeconfig.json
+/Users/williammetcalf/workspace/csharp/excercises/planner/bin/Debug/netcoreapp3.1/Planner.runtimeconfig.dev.json
+/Users/williammetcalf/workspace/csharp/excercises/planner/bin/Debug/netcoreapp3.1/Planner.dll
+/Users/williammetcalf/workspace/csharp/excercises/planner/bin/Debug/netcoreapp3.1/Planner.pdb
+/Users/williammetcalf/workspace/csharp/excercises/planner/obj/Debug/netcoreapp3.1/Planner.csprojAssemblyReference.cache
+/Users/williammetcalf/workspace/csharp/excercises/planner/obj/Debug/netcoreapp3.1/Planner.AssemblyInfoInputs.cache
+/Users/williammetcalf/workspace/csharp/excercises/planner/obj/Debug/netcoreapp3.1/Planner.AssemblyInfo.cs
+/Users/williammetcalf/workspace/csharp/excercises/planner/obj/Debug/netcoreapp3.1/Planner.dll
+/Users/williammetcalf/workspace/csharp/excercises/planner/obj/Debug/netcoreapp3.1/Planner.pdb
